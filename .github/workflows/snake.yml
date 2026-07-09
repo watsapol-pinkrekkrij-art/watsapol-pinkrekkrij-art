@@ -2,11 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # รันทุกวันเที่ยงคืน (UTC)
-  workflow_dispatch: {}    # ให้กดรันเองได้ด้วยจากแท็บ Actions
-  push:
-    branches:
-      - main               # รันทันทีตอน push เข้า branch main
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
