@@ -55,18 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=watsapol-pinkrekkrij-art&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/watsapol-pinkrekkrij-art/watsapol-pinkrekkrij-art/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> 💡 Snake animation ต้องตั้งค่า GitHub Actions เพิ่ม (ดูวิธีด้านล่าง)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=100&section=footer" />
 </p>
