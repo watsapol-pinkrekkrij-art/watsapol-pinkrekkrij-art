@@ -2,17 +2,11 @@
 <h3 align="center">Frontend / Full-stack Developer | Building E-Learning & Web Platforms</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Art%20%7C%20Watsapol&fontSize=42&fontColor=ffffff" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Watsapol%20Pinkrekkrij&fontSize=42&fontColor=ffffff" alt="header banner" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+React+%2B+Vite+web+apps;Crafting+E-Learning+Platforms;Exploring+Vue+%26+Kotlin+Android;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/watsapol-pinkrekkrij-art">
-    <img src="https://img.shields.io/github/followers/watsapol-pinkrekkrij-art?label=Follow&style=social" alt="GitHub followers" />
-  </a>
 </p>
 
 ---
@@ -54,16 +48,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=watsapol-pinkrekkrij-art&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/watsapol-pinkrekkrij-art/watsapol-pinkrekkrij-art/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> 💡 Snake animation ต้องตั้งค่า GitHub Actions เพิ่ม (ดูวิธีด้านล่าง)
 
 ---
 
